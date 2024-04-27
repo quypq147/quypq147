@@ -1,4 +1,4 @@
-                      ![gif](https://raw.githubusercontent.com/quypq147/quypq147/main/tumblr_2fa925adc67114d0d9eb5ff2f382e0ea_26f732a7_640.gif)
+                                              ![gif](quypq147/quypq147/main/tumblr_2fa925adc67114d0d9eb5ff2f382e0ea_26f732a7_640.gif)
              
 - 👋 Hi, I’m @quypq147
 - 👀 I’m interested in Gaming
