@@ -1,6 +1,8 @@
 <div align="center">
                           <img src="https://raw.githubusercontent.com/quypq147/quypq147/main/mygif.gif" alt="mygif">
-</div>           
+</div> 
+
+
 - 👋 Hi, I’m @quypq147
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning CSS and JS
