@@ -3,10 +3,9 @@
 </div> 
 
 
-- 👋 Hi, I’m @quypq147
-- 👀 I’m interested in Gaming
-- 📫 How to reach me phanngocquy1472004@gmail.com
-- 😄 Pronouns: He/Him
+👋 Hi, I’m @quypq147
+📫 How to reach me phanngocquy1472004@gmail.com
+😄 Pronouns: He/Him
 
 <!---
 quypq147/quypq147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
