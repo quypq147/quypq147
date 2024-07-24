@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quy</h1>
-<h3 align="center">Another web development</h3>
+<h3 align="center">Another web developer</h3>
 
 - 🌱 I’m currently learning **SASS , React , Bootstrap , ...**
 
