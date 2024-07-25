@@ -1,4 +1,7 @@
-<img src='./mygif.gif' align="center">
+<p align="center">
+  <img src='./mygif.gif'>
+</p>
+
 <h1 align="center">Hi 👋, I'm Quy</h1>
 <h3 align="center">Another web developer</h3>
 
