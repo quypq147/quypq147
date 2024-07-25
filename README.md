@@ -1,3 +1,4 @@
+<img src='./mygif.gif' align="center">
 <h1 align="center">Hi 👋, I'm Quy</h1>
 <h3 align="center">Another web developer</h3>
 
