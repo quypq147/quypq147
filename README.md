@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Phan Quy</h1>
-<h3 align="center">A passionate web developer from VietNam . You can call me quypq147</h3>
+<h3 align="center">A passionate developer from VietNam . You can call me quypq147</h3>
 
 - 🌱 I’m currently learning **React , Sass , Bootstrap , ...**
 
