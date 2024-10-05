@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Phan Quy</h1>
 <h3 align="center">A passionate developer from VietNam . You can call me quypq147</h3>
-<h3 align="center" >*You can check out my infomation here:* [My Portfolio](https://quypq147.github.io)</h3>
+<h3 align="center" >You can check out my infomation here: *[My Portfolio](https://quypq147.github.io)*</h3>
 - 🌱 I’m currently learning **React , Sass , Bootstrap , ...**
 
 - 📫 How to reach me **phanngocquy1472004@gmail.com**
