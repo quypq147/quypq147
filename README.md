@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Phan Quy</h1>
 <p align="center">
-  You can check out my information here: <a href="https://quypq147.github.io">My Portfolio</a>
+  You can check out my information here: <a href="https://quypq147.github.io">My Profile site</a>
 </p>
 
 - 🌱 I’m currently learning **React , Sass , Bootstrap , ...**
