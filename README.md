@@ -7,7 +7,7 @@
   You can check out my information here: <a href="https://quypq147.github.io">My Profile site</a>
 </p>
 
-- 🌱 I’m currently learning **React , Sass , Bootstrap , ...**
+- 🌱 I’m currently learning **NextJS, ...**
 
 - 📫 How to reach me **phanngocquy1472004@gmail.com**
 
